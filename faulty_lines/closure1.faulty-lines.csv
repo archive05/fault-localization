@@ -1,0 +1,2 @@
+Line,Code,IsOmission
+com.google.javascript.jscomp.RemoveUnusedVars#379,"FAULT_OF_OMISSION",T
